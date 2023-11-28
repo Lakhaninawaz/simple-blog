@@ -28,6 +28,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://elon-daily-news.vercel.app/post2.html</loc>
+  <lastmod>2023-11-27T16:22:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://elon-daily-news.vercel.app/contact.html</loc>
   <lastmod>2023-11-22T16:22:21+00:00</lastmod>
   <priority>0.80</priority>
